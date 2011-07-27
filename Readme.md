@@ -11,11 +11,11 @@ Manipulating historical data allows us to ask things like "who changed country i
 
 ## Webservice.js
 
-  A dead simple webservice.js based implementation. This node module provides a free dynamic documentation page which can be accessed via browser on `http://localhost:8080/docs`.
+  A dead simple webservice.js based implementation. This node module provides a free dynamic documentation page which can be accessed via browser at `http://localhost:8080/docs`.
 
 ## MongoDB
 
-  Honestly I could have used about anything to store this data. I chose mongo out of curiosity and because it has builtin MapReduce.
+  Honestly I could have used about anything to store this data. I chose mongo out of curiosity and because it has builtin MapReduce (check `lib/module.js` for fields_count).
 
 ## Installation
 
