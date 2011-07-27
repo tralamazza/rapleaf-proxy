@@ -6,7 +6,7 @@ Manipulating historical data allows us to ask things like "who changed country i
 
 ## Proxy
 
-  Implemented using node-http-proxy, this proxy is a https <-> https proxy which requires a certificate key par. If you don't require a https server changing the code is easy.
+  Implemented using node-http-proxy, this proxy is a http <-> https proxy. If you require a https proxy server make sure you have a certificate key par before changing the source code.
   Every successful response gets recorded on a mongodb database, which is later queried by our webservice layer.
 
 ## Webservice.js
