@@ -1,6 +1,6 @@
 # Proxy and Webservice application for RapLeaf API
 
-  I wrote this app primarily to learn more about mongodb, node.js, rapleaf's API and webservice.js.
+  I wrote this app primarily to learn more about [mongodb](http://www.mongodb.org), [node.js](http://nodejs.org), [rapleaf's API](https://www.rapleaf.com/developers/api_docs/personalization/direct) and [webservice.js](https://github.com/marak/webservice.js).
 This proxy allows me to implement a simple idea on top of RafLeaf's API: add the time dimension.
 Manipulating historical data allows us to ask things like "who changed country in the last year" or "list me recent graduates", the (weird) list of possibilities goes on.
 
