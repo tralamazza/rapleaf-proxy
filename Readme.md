@@ -20,6 +20,7 @@ Manipulating historical data allows us to ask things like "who changed country i
 ## Installation
 
   Github is more like a backup to me, but if you insist here is how you get this thing running:
+
   * Install mongodb (default settings)
   * Get this project source code and go to its folder
   * Install the dependencies `npm install -d`
