@@ -17,6 +17,11 @@ Manipulating historical data allows us to ask things like "who changed country i
 
   Honestly I could have used about anything to store this data. I chose mongo out of curiosity and because it has builtin MapReduce.
 
-## What now ?
+## Installation
 
-  Get the source code, go to its folder and install the dependencies first `npm install -d`, after that simply call `node app.js`.
+  Github is more like a backup to me, but if you insist here is how you get this thing running:
+  * Install mongodb (default settings)
+  * Get this project source code and go to its folder
+  * Install the dependencies `npm install -d`
+  * Run `node app.js` and start making rapleaf calls to your http://localhost:8081
+  * Open your browser at http://localhost:8080
